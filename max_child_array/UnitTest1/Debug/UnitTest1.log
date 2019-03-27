@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(399,5): warning MSB8029: 中间目录或输出目录无法驻留在临时目录下，因为这可能会导致增量生成出现问题。
+  unittest1.cpp
+    正在创建库 C:\Users\MSI-PC\source\repos\max_child_array\Debug\UnitTest1.lib 和对象 C:\Users\MSI-PC\source\repos\max_child_array\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\MSI-PC\source\repos\max_child_array\Debug\UnitTest1.dll
